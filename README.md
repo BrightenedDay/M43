@@ -1,6 +1,6 @@
 # M43
 ### Youtube Video &amp; Audio Downloader
-__Requires .NET 8.0 (Will prompt you to the download site, if you don't have it already)__
+__Requires .NET 6.0 (Will prompt you to the download site, if you don't have it already)__
 
 ## Instructions
 
