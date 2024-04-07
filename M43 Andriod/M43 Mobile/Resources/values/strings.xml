@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M43  Mobile</string>
+	<string name="placeholderText">https&#58;&#47;&#47;www.youtube.com&#47;</string>
+    <string name="videoButtonText">Download Video ( MP4 )</string>
+	<string name="audioButtonText">Download Audio ( WEBM )</string>
+	<string name="version">M43 v1.0</string>
+	<string name="extraLabel">Sabastian © Copyright 2024-2100</string>
+</resources>

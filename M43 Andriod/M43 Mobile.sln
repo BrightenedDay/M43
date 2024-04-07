@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M43 Mobile", "M43 Mobile\M43 Mobile.csproj", "{535C968A-79F4-4F0C-9BA2-FA8BD18E06B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535C968A-79F4-4F0C-9BA2-FA8BD18E06B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535C968A-79F4-4F0C-9BA2-FA8BD18E06B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535C968A-79F4-4F0C-9BA2-FA8BD18E06B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{535C968A-79F4-4F0C-9BA2-FA8BD18E06B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535C968A-79F4-4F0C-9BA2-FA8BD18E06B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535C968A-79F4-4F0C-9BA2-FA8BD18E06B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63486AA8-B294-477A-9880-C8B776836C73}
+	EndGlobalSection
+EndGlobal
